@@ -1,0 +1,183 @@
+body{
+background-color:#C2C2A3;
+font-family:'Georgia' , helvetica , Arial;
+margin:60px;
+line-height:1.5rem;
+}
+p{
+color:#545354;
+}
+
+p{
+font-size:1rem;
+color:black;
+font-family:'Georgia' , Arial;
+}
+#pagecontent{
+	padding:2rem;
+}
+#home {
+background-color:white;
+width:900px;
+background-image:url("bkg.jpg");
+background-repeat:repeat-x;
+margin:auto;
+box-shadow:0px 0px 30px #FFFFFF;
+}
+#heading h1{
+	text-align:center;
+	padding:1rem;
+}
+blockquote{
+padding:1em;
+margin:1em;
+background-color:#474040;
+color:#fff;
+font-family:Georgia;
+line-height:1.6em;
+float:right;
+width:150px;
+}
+nav a {
+color:white;
+}
+nav ul{
+margin:0px;
+padding:0px;
+}
+nav ul li {
+display:inline;
+margin:10px;
+padding:10px;
+}
+nav li a:hover{
+background-color:white;
+color:black;
+font-family:italic;
+}
+nav{
+background-color:#999966;
+padding-left:2rem;
+padding-right:2rem;
+}
+footer {
+background-color:#CCCCB2;
+font-family:verdana;
+padding:2rem;
+clear:both;
+height:200px;
+margin:auto;
+}
+footer p{
+color:white;
+}
+#sidebar{
+width:300px;
+float:left;
+padding-left:2rem;
+}
+#content{
+padding:2rem;
+float:right;
+background-color:#fff;
+}
+.module ul li a {
+color:red;
+text-decoration:none;
+}
+.module li {
+border-bottom:1px #888888 solid;
+margin:10px;
+padding:5px;
+list-style-type:none;
+}
+.module {
+margin:5px;
+padding:5px;
+border-width:5px;
+border-style:solid;
+border-color:grey;
+}
+#foot2{
+float:right;
+margin-top:-110px;
+}
+
+#foot3{
+float:right;
+margin-top:-110px;
+margin-right:150px;
+}
+#history ul li{
+display:inline;
+padding:8px;
+margin:8px;
+}
+#history ul a:hover{
+background-color:red;
+font-family:italic; 
+color:black;
+}
+#content2{
+width:800px;
+padding:10px;
+margin: 0 auto;
+font-family:verdana;
+background-color:#fff;
+}
+
+#cricketul ul li{
+display:inline;
+padding:8px;
+margin:8px;
+}
+#cricketul ul a:hover{
+background-color:red;
+color:black;
+font-family:italic;
+}
+#cricketcontent{
+width:800px;
+padding:10px;
+margin: 0 auto;
+font-family:verdana;
+background-color:#fff;
+}
+#tehreekul li{
+display:inline;
+padding:8px;
+margin:8px;
+}
+#tehreekul ul a:hover{
+background-color:red;
+color:black;
+font-family:italic;
+}
+#content3{
+width:800px;
+padding:10px;
+margin: 0 auto;
+font-family:verdana;
+background-color:#fff;
+}
+#content4{
+width:800px;
+padding:10px;
+margin: 0 auto;
+font-family:verdana;
+background-color:#fff;
+}
+#content5{
+width:800px;
+padding:10px;
+margin: 0 auto;
+font-family:verdana;
+background-color:#fff;
+}
+#content6{
+width:800px;
+padding:10px;
+margin: 0 auto;
+font-family:verdana;
+background-color:#fff;
+}
